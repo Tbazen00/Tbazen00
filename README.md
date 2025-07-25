@@ -18,7 +18,7 @@ Advanced statistical modeling
 MLOps and model deployment strategies
 Distributed computing for large-scale data processing
 
-💞️ I'm looking to collaborate on
+ I'm looking to collaborate on
 
 Machine learning research projects
 Open-source data science frameworks
